@@ -7,7 +7,6 @@ doubleChar('AAbb') → AAAAbbbb
 doubleChar('Hi-There') → HHii--TThheerree*/
 
 function doubleChar(str) {
-  const newArray = str.split("");
   const newStr = "";
   const size = str.length;
 
