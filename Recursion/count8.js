@@ -23,3 +23,4 @@ console.log(count8(188));
 console.log(count8(88888));
 console.log(count8(9898));
 console.log(count8(78));
+console.log(count8(878));
